@@ -1,4 +1,4 @@
-##steps
+## steps
 
 1. make directory in local machine -> **mkdir my_repo**
 2. enter this directory-> **cd my_repo**
